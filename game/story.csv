@@ -1,0 +1,7 @@
+id,story_title,story_array,choices_array,is_End
+0,Welcome,Text 1:Text 2,Do Thing 1:Do thing 2,False
+1,Thing 1,Text 1:Text 2:Text 3,Do Thing 3:Do thing 4:Do Thing 5,False
+2,Thing 2,Text 1:Text 2:Text 3,Do Thing 6:Do thing 7,False
+3,Ending 1,Text 1:Text 2:Text 3, ,True
+4,Thing 3,Text 1:Text 2:Text 3,Do Thing 1 Again:Do thing 2 Again,False
+5,Ending 2,Text 1:Text 2:Text 3, ,True
